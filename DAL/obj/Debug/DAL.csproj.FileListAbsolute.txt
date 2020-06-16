@@ -1,0 +1,8 @@
+D:\University\Programacion III\PresentacionParcialFinal\DAL\bin\Debug\DAL.dll
+D:\University\Programacion III\PresentacionParcialFinal\DAL\bin\Debug\DAL.pdb
+D:\University\Programacion III\PresentacionParcialFinal\DAL\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionParcialFinal\DAL\bin\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionParcialFinal\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionParcialFinal\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\University\Programacion III\PresentacionParcialFinal\DAL\obj\Debug\DAL.dll
+D:\University\Programacion III\PresentacionParcialFinal\DAL\obj\Debug\DAL.pdb

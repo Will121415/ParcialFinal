@@ -1,0 +1,5 @@
+D:\University\Programacion III\PresentacionParcialFinal\Entity\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionParcialFinal\Entity\bin\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionParcialFinal\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionParcialFinal\Entity\obj\Debug\Entity.dll
+D:\University\Programacion III\PresentacionParcialFinal\Entity\obj\Debug\Entity.pdb

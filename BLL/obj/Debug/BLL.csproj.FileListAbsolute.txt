@@ -1,0 +1,10 @@
+D:\University\Programacion III\PresentacionParcialFinal\BLL\bin\Debug\BLL.dll
+D:\University\Programacion III\PresentacionParcialFinal\BLL\bin\Debug\BLL.pdb
+D:\University\Programacion III\PresentacionParcialFinal\BLL\bin\Debug\DAL.dll
+D:\University\Programacion III\PresentacionParcialFinal\BLL\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionParcialFinal\BLL\bin\Debug\DAL.pdb
+D:\University\Programacion III\PresentacionParcialFinal\BLL\bin\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionParcialFinal\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionParcialFinal\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\University\Programacion III\PresentacionParcialFinal\BLL\obj\Debug\BLL.dll
+D:\University\Programacion III\PresentacionParcialFinal\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,16 @@
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\PresentacionParcialFinal.exe.config
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\PresentacionParcialFinal.exe
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\PresentacionParcialFinal.pdb
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\BLL.dll
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\Entity.dll
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\DAL.dll
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\BLL.pdb
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\Entity.pdb
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\bin\Debug\DAL.pdb
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\obj\Debug\PresentacionParcialFinal.csprojAssemblyReference.cache
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\obj\Debug\PresentacionParcialFinal.PrincipalFrm.resources
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\obj\Debug\PresentacionParcialFinal.Properties.Resources.resources
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\obj\Debug\PresentacionParcialFinal.csproj.GenerateResource.cache
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\obj\Debug\PresentacionParcialFinal.csproj.CopyComplete
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\obj\Debug\PresentacionParcialFinal.exe
+D:\University\Programacion III\PresentacionParcialFinal\PresentacionParcialFinal\obj\Debug\PresentacionParcialFinal.pdb
